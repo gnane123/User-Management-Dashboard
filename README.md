@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  # User Management Dashboard
 
 ## Setup
@@ -45,3 +46,6 @@ https://jsonplaceholder.typicode.com/users
 - Dark mode
 - Unit testing with Jest
 - Material UI
+=======
+# User-Management-Dashboard
+>>>>>>> 294dac70827c3842ea550891e4a583fc820dae93
